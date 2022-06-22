@@ -1,0 +1,72 @@
+[
+    {
+        "videoId": 1,
+        "title": "dars road to senior",
+        "file": {
+            "viewlink": "http://localhost:5000/view/Hayotdadangasabòlishkeremas,uyqukeldimisraziuhlashkerak😀.mp4",
+            "downloadlink": "http://localhost:5000/download/Hayotdadangasabòlishkeremas,uyqukeldimisraziuhlashkerak😀.mp4"
+        },
+        "size": 4532532,
+        "viewLink": "/videos/dars.mp4",
+        "date": "06/12/2022",
+        "time": "12:29",
+        "mimetype": "video/mp4",
+        "userId": 1
+    },
+    {
+        "title": "Hayotda dangasa bòlish keremas, uyqu keldimi srazi uhlash kerak😀.mp4",
+        "videoId": 3,
+        "file": {
+            "viewlink": "http://localhost:5000/view/Hayotdadangasabòlishkeremas,uyqukeldimisraziuhlashkerak😀.mp4",
+            "downloadlink": "http://localhost:5000/download/Hayotdadangasabòlishkeremas,uyqukeldimisraziuhlashkerak😀.mp4"
+        },
+        "type": "file",
+        "date": "06/12/2022",
+        "time": "12:28",
+        "size": 645046,
+        "mimetype": "video/mp4",
+        "userId": 2
+    },
+    {
+        "title": "new ",
+        "userId": "3",
+        "videoId": 4,
+        "file": {
+            "viewlink": "http://localhost:5000/view/Gentra2030-yilð¤£ð¤£.mp4",
+            "downloadlink": "http://localhost:5000/download/Gentra2030-yilð¤£ð¤£.mp4"
+        },
+        "type": "file",
+        "date": "06/19/2022",
+        "time": "16:36",
+        "size": 1480430,
+        "mimetype": "video/mp4"
+    },
+    {
+        "title": "gentra",
+        "userId": "3",
+        "videoId": 5,
+        "file": {
+            "viewlink": "http://localhost:5000/view/Gentra2030-yilð¤£ð¤£.mp4",
+            "downloadlink": "http://localhost:5000/download/Gentra2030-yilð¤£ð¤£.mp4"
+        },
+        "type": "file",
+        "date": "06/21/2022",
+        "time": "17:40",
+        "size": 1480430,
+        "mimetype": "video/mp4"
+    },
+    {
+        "title": "malibu",
+        "userId": "3",
+        "videoId": 6,
+        "file": {
+            "viewlink": "http://localhost:5000/view/Gentra2030-yilð¤£ð¤£.mp4",
+            "downloadlink": "http://localhost:5000/download/Gentra2030-yilð¤£ð¤£.mp4"
+        },
+        "type": "file",
+        "date": "06/21/2022",
+        "time": "17:42",
+        "size": 1480430,
+        "mimetype": "video/mp4"
+    }
+]

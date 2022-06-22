@@ -1,0 +1,20 @@
+[
+    {
+        "username": "sardor5",
+        "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "avatar": "/user/asl.jpg",
+        "userId": 1
+    },
+    {
+        "username": "jasur",
+        "password": "4c424daa19019d52c00ddd67fe2ab49f8083638c77fb14a1c18c2285d9569628",
+        "avatar": "/user/messi.jpg",
+        "userId": 2
+    },
+    {
+        "username": "shaxzod",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "avatar": "/user/shazod.jpg",
+        "userId": 3
+    }
+]
